@@ -13,7 +13,7 @@
         <input v-model="nowyBlog" type="text" class="border-2 border-blue-600 p-4">
         <button @click="dodajWpisy" class="bg-blue-600 rounded-md text-white p-4">dodaj</button>
         </div>
-        </div>
+        </div>  
        
 </template>
 
